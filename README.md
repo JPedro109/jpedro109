@@ -25,6 +25,6 @@
  ## Estatísticas  
   
 <div align="center">
-<a href="https://github.com/JPedro910">
+<a href="https://github.com/JPedro109">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedro109&layout=compact&langs_count=7&theme=dracula"/>
 </div>
