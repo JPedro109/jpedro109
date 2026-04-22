@@ -2,7 +2,7 @@
 
 ## Ferramentas e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,kotlin,spring,redis,postgresql,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,kotlin,spring,redis,postgresql,mongodb,docker)](https://skillicons.dev)
   
 ## Mídias Sociais
   
